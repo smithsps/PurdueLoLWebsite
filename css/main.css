@@ -67,3 +67,7 @@
 	background-color : #FFE100;
 	color : black;
 }
+
+#tourneyTable tbody tr{
+	cursor: pointer;
+}
