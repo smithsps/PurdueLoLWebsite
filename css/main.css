@@ -1,0 +1,69 @@
+#logo{
+	color:black;
+	margin-top: -5px;
+	height:30px;
+}
+
+.navbar {
+	/*background-color: #FFE100;*/
+	/*background-color: #282828;*/
+	margin-bottom:0px;
+}
+
+.navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-nav>li>a:hover{
+	/*text-decoration:underline;*/
+	/*color:#FFE100;*/
+}
+
+#newslist{
+	background-color:black;
+	color:#FFE100;
+	height: 5em;
+	margin-bottom:1em;
+}
+
+#toolslist{
+	background-color:black;
+	color:#FFE100;
+	height: 5em;
+	margin-bottom:1em;
+}
+
+#oldtoolslist{
+	background-color:#9E9290;
+	color:#696160;
+	height: 5em;
+	margin-bottom:1em;
+}
+
+
+#toolslist:hover{
+	background-color:#FFE100;
+	color:black;
+}
+
+.MyTopLinks{
+	color:black;
+}
+
+#personlist{
+	background-color:black;
+	color:#FFE100;
+	height: 10em;
+	margin-bottom:2em;
+}
+
+#panel-item {
+	height : 5em;
+	background-color:black;
+	color:#FFE100;
+}
+
+#panel-item:hover {
+	background-color : #FFE100;
+	color : black;
+}

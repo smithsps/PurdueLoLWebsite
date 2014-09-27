@@ -1,0 +1,87 @@
+Date : 9/7/14
+
+Fixed Navbar colors
+Fixed Accordian problem
+--------------------------------------------
+Date : 7/20/14
+
+Major Changes to layout of Nav and frontpage.
+Fullscreen -> Less Fullscreen
+Fixing of Code, Make sure your <body> tags are correct!
+Changed Changelog to be New->Old
+Removed Telephone and Email of Officers from Contact information
+Combined About.css and Main.css
+Changed Tourney1.html -> events/2014-10025_ChampionshipV.html
+Creation of docs folder
+TODO: Synchronize Header and Nav information
+TODO: Evaluate the necessary plugins
+TODO: Remove unecessary files.
+TODO: Create Actual Calendar.  
+
+By : Simon Smith
+
+--------------------------------------------
+Date : 6/24/14
+
+Changes : Fixed calendar to add clarity and separate upcoming and past events.
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/23/14
+
+Changes : Added link to latest riot video!  Please work with the spacing if you think it would be placed better elsewhere (in js file)
+        : Fixed some problems with the contact accordian
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/22/14
+
+Changes : Added backgrounds to every page, made the contact page useful (send me info if you want in!), altered "About" page.
+
+@Cam ->  I adjusted the "About" page you made to match the background theme.  The old file sits unchanged in the 'old' folder if you don't like the changes or want to take it down a different path.  If you want to alter the changes I made to the file to improve/iterate, feel free to do so.
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/20/14
+
+Changes : Added front-page fading sequence
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/18/14
+
+Changes : Everyone now has access to JQuery UI if necessary (in js_ui folder)
+
+Includes required to use JQuery UI: (not tested)
+<link rel="stylesheet" href="js_ui/jquery-ui-1.10.4/css/ui-lightness/jquery-ui-1.10.4.css" />
+<link rel="stylesheet" href="js_ui/jquery-ui-1.10.4/css/ui-lightness/jquery-ui-1.10.4.min.css" />
+<script src="js_ui/jquery-ui-1.10.4/js/jquery-ui-1.10.4.js"></script>
+<script src="js_ui/jquery-ui-1.10.4/js/jquery-ui-1.10.4.min.js"></script>
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/18/14
+
+Changes : Added opening animations for index.html
+
+By : Chris Pratt
+
+--------------------------------------------
+Date : 6/17/14
+
+Changes : New about.html file - added images folder and about.css; fixed links in news1.html, news2.html, and news3.html; changed Facebook links to open in a new tab; added old folder for past files
+
+By : Cameron Kachur
+
+--------------------------------------------
+
+Date : 6/?/14
+
+Changes : Rebuilt the website!
+
+By : Chris Pratt
