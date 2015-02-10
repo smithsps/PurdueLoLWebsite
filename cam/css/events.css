@@ -1,0 +1,107 @@
+#title {
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: normal;
+	font-size: 30pt;
+	margin: 0;
+	padding: 10px 0;
+}
+
+.table-container {
+	position: relative;
+	width: 100%;
+	min-width: 1000px;
+	margin: 0;
+	padding: 10px 0 0 0;
+}
+
+.table-inner {
+	position: relative;
+	height: 100%;
+	width: 1000px;
+	min-width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.table-container h1 {
+	font-family: Helvetica;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.meetings, .tournaments {
+	border-spacing: 0 2px;
+}
+
+td, th {
+	font-family: Helvetica;
+	border-bottom: 1px solid gray;
+	padding: 8px 0;
+}
+
+.meetings tr:first-child th, .tournaments tr:first-child th {
+	border-bottom: 2px solid gray;
+}
+
+.meetings tr:last-child td, .tournaments tr:last-child td {
+	border-bottom: none;
+}
+
+.tournaments .name-column {
+	width: 300px;
+	min-width: 300px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.tournaments .date-column {
+	width: 200px;
+	min-width: 200px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.tournaments .location-column {
+	width: 150px;
+	min-width: 150px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.tournaments .info-column {
+	width: 350px;
+	min-width: 350px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.meetings .date-column {
+	width: 400px;
+	min-width: 400px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.meetings .location-column {
+	width: 300px;
+	min-width: 300px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.meetings .time-column {
+	width: 300px;
+	min-width: 300px;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
