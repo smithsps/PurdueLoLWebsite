@@ -8,14 +8,18 @@
   <?php require_once($_SERVER['DOCUMENT_ROOT'].'/nav.php'); ?>
 	<div class="container">
 		<h1 style="color:black">Contact Us</h1><br>
-      <p>
-         <img class="pull-right" src="/images/contactus.jpg"/>          
+      <div class="col-md-6">
+        <p>                
          For suggestions, event inquiries, clarifications, corrections, 
          mixups, team registration, and all other things pretaining to the 
-         Purdue League of Legends Group: Please email us at
-         <a href="mailto:contact@purduelol.com">contact@purduelol.com</a>.
-           
-      </p>
+         Purdue League of Legends Group: <br/><h4>Email us at
+         <a href="mailto:contact@purduelol.com">contact@purduelol.com</a>.</h4>   
+        </p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="/images/contactus.jpg"/>
+      </div>
+      
         
        
 
