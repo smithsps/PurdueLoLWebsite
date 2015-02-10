@@ -9,7 +9,7 @@
 	<div class="container">
 		<h1 style="color:black">Contact Us</h1><br>
       <p>
-         <img style="float:right;"src="http://cdn.leagueoflegends.com/game-info/1.1.9/images/content/gi-landing-top.jpg"/>          
+         <img class="pull-right" src="/images/contactus.jpg"/>          
          For suggestions, event inquiries, clarifications, corrections, 
          mixups, team registration, and all other things pretaining to the 
          Purdue League of Legends Group: Please email us at
