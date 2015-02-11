@@ -7,9 +7,11 @@
   <body>
     <?php require_once($_SERVER['DOCUMENT_ROOT'].'/nav.php'); ?>
     <div class="container">
-		  <h1>About Us</h1><br>
+		  <h1>About Us</h1>
       <div class="col-md-8">
-
+        <h3>What is the Purdue League of Legends Club?</h3>
+        <p>The Purdue League of Legends Club strives to create a community that involves all League of Legends players at Purdue. We work hard to provide you with everything you need so that you can get down to what you do best: Playing some League of Legends. Whether it's venturing out to our weekly meetings, battling your friends in one of our tournaments, or relaxing and watching the pros at an LCS viewing parties, PurdueLoL has something to offer you.</p>
+        <p>We try to have a regular PurdueLoL meeting every weekend during the fall and spring semester. Our meetings are a great way to meet others on campus that play League of Legends. We supply the room, the power, and the networking, so bring your rig, play some League, and have some fun. </p>
         <h3>Current Officers:</h3>
         <div class="media">
           <div class="pull-left">
@@ -112,6 +114,10 @@
           </div>
         </div>
         <br/><br/>
+      </div>
+      <div class="col-md-4">
+        </br>
+        <img class="img-responsive" src="images/meetings.jpg" />
       </div>
 	  </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
