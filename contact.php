@@ -12,8 +12,10 @@
         <p>                
          For suggestions, event inquiries, clarifications, corrections, 
          mixups, team registration, and all other things pretaining to the 
-         Purdue League of Legends Group: <br/><h4>Email us at
-         <a href="mailto:contact@purduelol.com">contact@purduelol.com</a>.</h4>   
+         Purdue League of Legends Group: <br/>
+         <h4>Email us at
+           <a href="mailto:contact@purduelol.com">contact@purduelol.com</a>.
+         </h4>   
         </p>
       </div>
       <div class="col-md-6">
