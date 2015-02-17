@@ -23,7 +23,7 @@
 	      </tr>
 	    </thead>
 	    <tbody>      
-	      <tr href="2014-10-25_ChampionshipV.html">
+	      <tr href="/events/ChampionshipVI.html">
 		<td>March 8th, 2015</td>
 		<td>PurdueLoL Championship VI</td>
 		<td>STEW 218</td>
