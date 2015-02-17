@@ -8,7 +8,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" id="logo" href="/index.html" style="display:inline">
+        <a class="navbar-brand" id="logo" href="/index.php" style="display:inline">
 			    <img src="/images/navlogo_gold.png" alt="PurdueLoL" />
 		    </a>
       </div>
