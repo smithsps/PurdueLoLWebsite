@@ -23,11 +23,11 @@
 	      </tr>
 	    </thead>
 	    <tbody>      
-	      <tr href="/events/ChampionshipVI.html">
+	      <tr href="/events/ChampionshipVI.php">
 		<td>March 8th, 2015</td>
 		<td>PurdueLoL Championship VI</td>
 		<td>STEW 218</td>
-		<td><a href="/events/ChampionshipVI.html">More Info</a></td>
+		<td><a href="/events/ChampionshipVI.php">More Info</a></td>
 	      </tr>
 	    </tbody>
 	  </table>
