@@ -23,12 +23,12 @@
 	      </tr>
 	    </thead>
 	    <tbody>      
-	      <!-- <tr href="2014-10-25_ChampionshipV.html">
-		<td>October 25th, 2014</td>
-		<td>PurdueLoL Championship V</td>
-		<td>STEW 214</td>
-		<td><a href="2014-10-25_ChampionshipV.html">Details</a></td>
-	      </tr> -->
+	      <tr href="2014-10-25_ChampionshipV.html">
+		<td>March 8th, 2015</td>
+		<td>PurdueLoL Championship VI</td>
+		<td>STEW 218</td>
+		<td><a href="/events/ChampionshipVI.html">More Info</a></td>
+	      </tr>
 	    </tbody>
 	  </table>
 	  
