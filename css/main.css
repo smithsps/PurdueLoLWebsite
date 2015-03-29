@@ -71,3 +71,17 @@
 #tourneyTable tbody tr{
 	cursor: pointer;
 }
+
+.jumbotron {
+  height:500px;
+}
+
+.carousel-inner {
+  	overflow: hidden;
+    height:500px;
+}
+
+.carousel-inner img {
+  margin-top:-12%;
+  width:100%;
+}

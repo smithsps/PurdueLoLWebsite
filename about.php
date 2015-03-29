@@ -64,7 +64,7 @@
         </div>
         <div class="media">
           <div class="pull-left">
-            <a href="#">
+            <a href="https://youtu.be/UYhP3bLveQM">
               <img class="media-object" style="width:96px"src="/images/officers/erich_fischer.jpg" alt="Erich Linux Fischer">
             </a>
           </div>
