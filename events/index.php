@@ -149,6 +149,8 @@
 	    });
       });
     </script>
+
+  <?php require_once($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>    
     
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
