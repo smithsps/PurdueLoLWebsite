@@ -77,13 +77,16 @@
 }
 
 .carousel-inner {
-  	overflow: hidden;
-    height:500px;
+	overflow: hidden;
+  height:500px;
+  background-image: url('/images/frontpage/teambuilder-wallpaper.jpg');
+  background-position: center 37%;
 }
 
 .carousel-inner img {
   margin-top:-12%;
   width:100%;
+
 }
 
 #heading {
