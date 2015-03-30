@@ -8,6 +8,7 @@
 	/*background-color: #FFE100;*/
 	/*background-color: #282828;*/
 	margin-bottom:0px;
+  border-radius: 0px;
 }
 
 .navbar-nav>li>a{
@@ -77,10 +78,11 @@
 }
 
 .carousel-inner {
+  background-color:#222;
 	overflow: hidden;
   height:500px;
-  background-image: url('/images/frontpage/teambuilder-wallpaper.jpg');
-  background-position: center 37%;
+  /*background-image: url('/images/frontpage/teambuilder-wallpaper.jpg');
+  background-position: center 37%;*/
 }
 
 .carousel-inner img {
