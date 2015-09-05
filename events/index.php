@@ -24,10 +24,10 @@
 	    </thead>
 	    <tbody>      
 	      <tr href="/events/ChampionshipVI.php">
-		<td>March 8th, 2015</td>
-		<td>PurdueLoL Championship VI</td>
-		<td>STEW 218</td>
-		<td><a href="/events/ChampionshipVI.php">More Info</a></td>
+		<td>Late October / Early November</td>
+		<td>PurdueLoL Championship VII</td>
+		<td>To Be Announced</td>
+		<td></td>
 	      </tr>
 	    </tbody>
 	  </table>
@@ -50,94 +50,10 @@
 		<td>2 Player 1v1 Tourney</td>
 	      </tr> -->
 	      <tr>
-	      	<td>January 18th, 2015</td>
+	      	<td>September 12, 2015</td>
 	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>January 24th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 314</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>February 1st, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>February 8th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>February 15th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>February 22nd, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>March 1st, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>March 8th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>March 15th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>March 22nd, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>March 29th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>April 12th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>April 19th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>May 3rd, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
-	      </tr>
-	      <tr>
-	      	<td>May 10th, 2015</td>
-	      	<td>Weekly Meeting</td>
-	      	<td>STEW 218</td>
-	      	<td></td>
+	      	<td>STEW 310</td>
+	      	<td>2v2 Special Tourney</td>
 	      </tr>
 	    </tbody>
 	  </table>
