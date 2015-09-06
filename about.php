@@ -16,12 +16,12 @@
         <div class="media">
           <div class="pull-left">
             <a href="#">
-              <img class="media-object" style="width:96px"src="/images/officers/ben_milks.jpg" alt="BenJammin Milks">
+              <img class="media-object" style="width:96px"src="/images/officers/cameron_kachur.jpg" alt="Can Cracher">
             </a>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">President - Ben Milks</h4>
-              Known for his audacious entrepreneurial spirit, Benjamin Milks seeks to 
+            <h4 class="media-heading">President - Cameron Kachur</h4>
+              Known for his audacious entrepreneurial spirit, Cameron seeks to 
               rule the presidency with an iron fist. Hailing from Missouri, Ben
               presses his faultless agressive agenda with an unrelenting passion. 
           </div>
@@ -29,11 +29,11 @@
         <div class="media">
           <div class="pull-left">
             <a href="#">
-              <img class="media-object" style="width:96px"src="/images/officers/cameron_kachur.jpg" alt="Can Cracher">
+              <img class="media-object" style="width:96px"src="/images/officers/daniel_seamans.jpg" alt="Plat V">
             </a>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">Vice President - Cameron Kachur</h4>
+            <h4 class="media-heading">Vice President - Daniel Seamans</h4>
               He works in the shadows. He does seem to show up at every meeting,
               but no one knows who he is or what he does.
           </div>
@@ -41,13 +41,13 @@
         <div class="media">
           <div class="pull-left">
             <a href="#">
-              <img class="media-object" style="width:96px"src="/images/officers/andreas_watts.jpg" alt="Billy Louie">
+              <img class="media-object" style="width:96px"src="/images/officers/simon_smith.jpg" alt="Billy Louie">
             </a>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">Treasurer - Andreas Watts</h4>
-              Only have pocketed club funds twice, Andreas sets the standards
-              with being the cleanest Treasurer the club has ever had.
+            <h4 class="media-heading">Treasurer - Simon Smith</h4>
+              Only have pocketed club funds thrice, Simon sets the standards
+              to being the cleanest Treasurer the club has ever had.
           </div>
         </div>
         <div class="media">
@@ -59,7 +59,7 @@
           <div class="media-body">
             <h4 class="media-heading">Event Manager - Treven Yeager</h4>
               Having braved the flame of three incinerated events, Treven plans
-              for this semester to be the best with only one or two fires.
+              for this semester to be the best with only one or two fires and plently of Red Bull.
           </div>
         </div>
         <div class="media">
@@ -72,7 +72,7 @@
             <h4 class="media-heading">Assistant Event Manager - Erich Fischer</h4>
               Having braved only two of the fires that Treven caused, Erich
               is still relativity unscared from the rage flames of League of 
-              Legends. <br/> Also plays Attack-Speed Bro-Braum. Soloing Dragons
+              Legends. Also plays Attack-Speed Bro-Braum and Heimer Support. Soloing Dragons and Zhyonaing
               like it was 1989. 
           </div>
         </div>
@@ -86,31 +86,20 @@
             <h4 class="media-heading">Network Manager - Chris Pastor</h4>
               Known for his audacious bm and knowledge of the scared religion of
               Kripp, Chris seeks to solve all networking problems with percision
-              and minimal effort.
+              and minimal effort. Master and slave to the cables.
           </div>
         </div>
         <div class="media">
           <div class="pull-left">
             <a href="#">
-              <img class="media-object" style="width:96px"src="/images/officers/daniel_seamans.jpg" alt="Plat V">
+              <img class="media-object" style="width:96px"src="/images/officers/ben_milks.jpg" alt="Plat V">
             </a>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">Community Manager - Daniel Seamans</h4>
-              Though he used to be ranked higher, Daniel enjoys the passion that
+            <h4 class="media-heading">Community Manager - Ben Milks</h4>
+              Though he is ranked higher on LAN, Ben enjoys the passion that
               Gold II brings to him. His fighting spirit ensures that someday 
               Ryze will eventully be buffed and he will be able to climb again.
-          </div>
-        </div>
-        <div class="media">
-          <div class="pull-left">
-            <a href="#">
-              <img class="media-object" style="width:96px"src="/images/officers/simon_smith.jpg" alt="Simeon Smith">
-            </a>
-          </div>
-          <div class="media-body">
-            <h4 class="media-heading">Web Developer - Simon Smith</h4>
-              Web Developer is just a title, he does a little bit of everything.
           </div>
         </div>
         <br/><br/>
