@@ -22,7 +22,7 @@
           <div class="media-body">
             <h4 class="media-heading">President - Cameron Kachur</h4>
               Known for his audacious entrepreneurial spirit, Cameron seeks to 
-              rule the presidency with an iron fist. Hailing from Missouri, Ben
+              rule the presidency with an iron fist. Hailing from Pittsburgh, Cameron
               presses his faultless agressive agenda with an unrelenting passion. 
           </div>
         </div>
