@@ -24,7 +24,7 @@
 	    </thead>
 	    <tbody>      
 	      <tr href="/events/ChampionshipVI.php">
-		<td>Late October / Early November</td>
+		<td>November 7, 2015</td>
 		<td>PurdueLoL Championship VII</td>
 		<td>To Be Announced</td>
 		<td></td>
@@ -43,17 +43,17 @@
 	      </tr>
 	    </thead>
 	    <tbody>
-	      <!-- <tr>
-		<td>September 27th, 2014</td>
-		<td>Weekend LAN / Small Tourney</td>
-		<td>STEW 281</td>
-		<td>2 Player 1v1 Tourney</td>
-	      </tr> -->
 	      <tr>
-	      	<td>September 12, 2015</td>
+	      	<td>October 17, 2015</td>
 	      	<td>Weekly Meeting</td>
-	      	<td>STEW 310</td>
-	      	<td>2v2 Special Tourney</td>
+	      	<td>STEW 214</td>
+	      	<td></td>
+	      </tr>
+	      <tr>
+	      	<td>October 24, 2015</td>
+	      	<td>Weekly Meeting</td>
+	      	<td>STEW 214</td>
+	      	<td></td>
 	      </tr>
 	    </tbody>
 	  </table>
