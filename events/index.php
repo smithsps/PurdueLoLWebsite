@@ -23,11 +23,11 @@
 	      </tr>
 	    </thead>
 	    <tbody>      
-	      <tr href="/events/ChampionshipVI.php">
+	      <tr href="/events/ChampionshipVII.php">
 		<td>November 7, 2015</td>
 		<td>PurdueLoL Championship VII</td>
-		<td>To Be Announced</td>
-		<td></td>
+		<td>STEW 214</td>
+		<td>Details</td>
 	      </tr>
 	    </tbody>
 	  </table>
